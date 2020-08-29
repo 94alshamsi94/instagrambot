@@ -1,4 +1,5 @@
 instagrambot
+![Screenshot](screenshot.png)
 
 Functionality: 
 
